@@ -26,6 +26,8 @@ Results saved to `Output/<timestamp>/`:
 | `resub_period_will_start_in_X_days.txt` | Active sub, will enter resub period in X days |
 | `no_resub_period.txt` | No active subscription or resub eligibility |
 
+buy tokens from https://boostsync.cc/ 🚀
+
 
 ## Notes
 
