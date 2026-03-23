@@ -13,7 +13,7 @@ A multithreaded tool to check Discord tokens for Nitro subscription status and r
 
 1. Add tokens to `tokens.txt` (format: `email:pass:token`)
 2. Add proxies to `proxies.txt` (format: `ip:port` or `user:pass@ip:port`)
-3. Run: `python checker.py`
+3. Run: `python main.py`
 4. Enter thread count when prompted
 
 ## Output
